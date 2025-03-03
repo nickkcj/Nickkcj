@@ -23,9 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo"  />
   <img width="12" />
-  <div style="background-color:white; padding:10px; display:inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="200">
-  </div>
 </div>
 
 
