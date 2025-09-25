@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! My name is Nicholas and I'm a Fullstack Developer, from Brazil.</h2>
+<h2 align="left">Hey 👋! My name is Nicholas and I'm a Software Engineer, from Brazil.</h2>
 
 ###
 
@@ -7,7 +7,6 @@
 ###
 
 <p align="left">💻 Passionate about technology, I love building software and solving problems.<br>  
-🚀 Currently learning a lot of Django and React, while improving my advanced Python skills.<br>  
 🎯 My goals include contributing to open-source projects, growing as a software developer, and finding exciting new opportunities.<br>  
 🎲 Fun fact: I'm a big fan of RPGs and often draw inspiration from them for my coding projects!</p>  
 
