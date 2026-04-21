@@ -1,49 +1,66 @@
-<h2 align="left">Hey 👋! My name is Nicholas and I'm a Software Engineer, from Brazil.</h2>
+<h1 align="center">Hey 👋 I'm Nicholas Jasper</h1>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💻 Passionate about technology, I love building software and solving problems.<br>  
-🎯 My goals include contributing to open-source projects, growing as a software developer, and finding exciting new opportunities.<br>  
-🎲 Fun fact: I'm a big fan of RPGs and often draw inspiration from them for my coding projects!</p>  
-
-
-###
-
-<h2 align="left">💻 Tech Stack</h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+<p align="center">
+  <strong>Software Engineer @ DOOOR</strong> | Dual Citizen (🇧🇷/🇩🇪) <br>
+  I build high-performance backend systems, scalable AI infrastructure, and optimize cloud costs.
 </p>
 
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  
+  <br> <br>
 
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="k8s logo" />
+
+  <br> <br>
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
+</div>
 
 ###
 
-<h2 align="left">Connect with me</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/nicholas-jasper-6388902b9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-  <a href="mailto:nickcj123@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img width="12" />
+  <a href="mailto:nickcj123@hotmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nickkcj&theme=dracula" height="150" alt="profile details card" />
+  <img width="12" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nickkcj&theme=dracula" height="150" alt="stats card" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nickkcj/Nickkcj/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nickkcj/Nickkcj/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nickkcj/Nickkcj/output/pacman-contribution-graph.svg">
+</picture>
+
+###
