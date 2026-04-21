@@ -8,31 +8,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  
-  <br> <br>
-
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="k8s logo" />
-
-  <br> <br>
-
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nestjs,react,ts,gcp,aws,docker,kubernetes,postgres,redis" height="60" alt="tech stack" />
 </div>
 
 ###
