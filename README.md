@@ -28,7 +28,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nickkcj&theme=react" height="150" alt="profile details card" />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nickkcj&show_icons=true&theme=react&rank_icon=github&count_private=true&include_all_commits=true" height="150" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nickkcj&theme=react" height="150" alt="stats card" />
 </div>
 
 ###
