@@ -50,9 +50,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nickkcj&theme=dracula" height="150" alt="profile details card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nickkcj&theme=react" height="150" alt="profile details card" />
   <img width="12" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nickkcj&theme=dracula" height="150" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nickkcj&theme=react" height="150" alt="stats card" />
 </div>
 
 ###
