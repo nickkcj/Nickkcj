@@ -26,9 +26,9 @@
 ###
 
 <div align="center">
-  <img src="profile-summary-cards-output/react/0-profile-details.svg" height="150" alt="profile details card" />
+  <img src="profile-summary-card-output/react/0-profile-details.svg" height="150" alt="profile details card" />
   <img width="12" />
-  <img src="profile-summary-cards-output/react/1-stats.svg" height="150" alt="stats card" />
+  <img src="profile-summary-card-output/react/1-stats.svg" height="150" alt="stats card" />
 </div>
 
 ###
