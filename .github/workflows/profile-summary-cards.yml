@@ -1,7 +1,7 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # Roda a cada 24 horas
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -9,8 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+        with:
+          # Força o checkout a usar o seu PAT com permissão de escrita
+          token: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+          
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
