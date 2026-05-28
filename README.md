@@ -26,9 +26,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nickkcj&theme=react&show_icons=true&hide_border=true" height="150" alt="stats card" />
+  <img src="profile-summary-cards-output/react/0-profile-details.svg" height="150" alt="profile details card" />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickkcj&theme=react&layout=compact&hide_border=true" height="150" alt="top languages" />
+  <img src="profile-summary-cards-output/react/1-stats.svg" height="150" alt="stats card" />
 </div>
 
 ###
