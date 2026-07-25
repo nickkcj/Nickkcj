@@ -14,6 +14,20 @@
 ###
 
 <div align="center">
+  <a href="https://www.credly.com/badges/5d4664a4-a077-4467-9765-7bcaf669e099" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="120" alt="AWS Certified Solutions Architect Associate" />
+  </a>
+  <img width="80" />
+  <img src="https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" height="120" alt="Google Cloud Professional Cloud Architect" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud_PCA-In_Progress-2ea44f?style=flat-square" alt="Google Cloud Professional Cloud Architect - In Progress" />
+</p>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/nicholas-jasper-6388902b9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
@@ -21,33 +35,6 @@
   <a href="mailto:nickcj123@hotmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
-</div>
-
-###
-
-<h3 align="center">Certifications</h3>
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="210">
-      <a href="https://www.credly.com/badges/5d4664a4-a077-4467-9765-7bcaf669e099" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect Associate" />
-      </a>
-      <br />
-      <strong>AWS Certified<br />Solutions Architect &ndash; Associate</strong>
-      <br />
-      <img src="https://img.shields.io/badge/status-certified-2ea44f?style=flat-square" alt="certified" />
-    </td>
-    <td align="center" width="210">
-      <img src="https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" height="100" alt="Google Cloud Professional Cloud Architect" />
-      <br />
-      <strong>Google Cloud<br />Professional Cloud Architect</strong>
-      <br />
-      <img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square" alt="in progress" />
-    </td>
-  </tr>
-</table>
 </div>
 
 ###
