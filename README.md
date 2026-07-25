@@ -29,16 +29,18 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/5d4664a4-a077-4467-9765-7bcaf669e099" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="130" alt="AWS Certified Solutions Architect – Associate" />
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="120" alt="AWS Certified Solutions Architect Associate" />
   </a>
-  <img width="100" />
-  <img src="https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" height="130" alt="Google Cloud Professional Cloud Architect" />
+  <br />
+  <strong>AWS Certified Solutions Architect &ndash; Associate</strong>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_SAA-certified-2ea44f?style=flat-square" alt="AWS Solutions Architect Associate - certified" />
-  <img width="130" />
-  <img src="https://img.shields.io/badge/GCP_PCA-in_progress-dbab09?style=flat-square" alt="GCP Professional Cloud Architect - in progress" />
+  <img src="https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" height="120" alt="Google Cloud Professional Cloud Architect" />
+  <br />
+  <strong>Google Cloud Professional Cloud Architect</strong> &ndash; <em>In Progress</em>
 </div>
 
 ###
