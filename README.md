@@ -25,6 +25,22 @@
 
 ###
 
+<h3 align="center">Certifications</h3>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/5d4664a4-a077-4467-9765-7bcaf669e099" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect Associate" />
+  </a>
+</div>
+
+<p align="center">
+  <strong>AWS Certified Solutions Architect &ndash; Associate</strong>
+  <br />
+  <img src="https://img.shields.io/badge/GCP-Professional_Cloud_Architect_(in_progress)-4285F4?logo=googlecloud&logoColor=white&style=flat-square" alt="GCP PCA in progress" />
+</p>
+
+###
+
 <div align="center">
   <img src="profile-summary-card-output/react/0-profile-details.svg" height="150" alt="profile details card" />
   <img width="12" />
