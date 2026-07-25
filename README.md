@@ -28,16 +28,27 @@
 <h3 align="center">Certifications</h3>
 
 <div align="center">
-  <a href="https://www.credly.com/badges/5d4664a4-a077-4467-9765-7bcaf669e099" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect Associate" />
-  </a>
+<table>
+  <tr>
+    <td align="center" width="210">
+      <a href="https://www.credly.com/badges/5d4664a4-a077-4467-9765-7bcaf669e099" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect Associate" />
+      </a>
+      <br />
+      <strong>AWS Certified<br />Solutions Architect &ndash; Associate</strong>
+      <br />
+      <img src="https://img.shields.io/badge/status-certified-2ea44f?style=flat-square" alt="certified" />
+    </td>
+    <td align="center" width="210">
+      <img src="https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" height="100" alt="Google Cloud Professional Cloud Architect" />
+      <br />
+      <strong>Google Cloud<br />Professional Cloud Architect</strong>
+      <br />
+      <img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square" alt="in progress" />
+    </td>
+  </tr>
+</table>
 </div>
-
-<p align="center">
-  <strong>AWS Certified Solutions Architect &ndash; Associate</strong>
-  <br />
-  <img src="https://img.shields.io/badge/GCP-Professional_Cloud_Architect_(in_progress)-4285F4?logo=googlecloud&logoColor=white&style=flat-square" alt="GCP PCA in progress" />
-</p>
 
 ###
 
