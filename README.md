@@ -29,12 +29,16 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/5d4664a4-a077-4467-9765-7bcaf669e099" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="85" align="middle" alt="AWS SAA" />
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="105" alt="AWS SAA" />
   </a>
-  &nbsp;<strong>AWS Solutions Architect</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" height="85" align="middle" alt="GCP PCA" />
-  &nbsp;<strong>GCP Professional Cloud Architect</strong> <em>(In Progress)</em>
+  <img width="120" />
+  <img src="https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" height="105" alt="GCP PCA" />
+</div>
+
+<div align="center">
+  <strong>AWS Solutions Architect</strong>
+  <img width="80" />
+  <strong>GCP Cloud Architect</strong> <em>(In Progress)</em>
 </div>
 
 ###
