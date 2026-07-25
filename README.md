@@ -43,34 +43,6 @@
 
 ###
 
-<h3 align="center">Featured Projects</h3>
-
-<p align="center">
-  <strong><a href="https://github.com/nickkcj/soundscore-api">SoundScore</a></strong> · a social network for music lovers<br />
-  Album reviews, Spotify sync, real-time feeds and a Gemini-powered AI assistant.<br />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/nickkcj/auto-trading-system">Distributed Trading System</a></strong> · atomic multi-asset trading over raw sockets<br />
-  Four independent processes coordinating with Saga, Sidecar and Scatter/Gather patterns.<br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-00897B?style=flat-square" alt="Distributed Systems" />
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/nickkcj/ricardo-pneus-management">Ricardo Pneus Management</a></strong> · shipped for a real tire shop<br />
-  Offline-first desktop app for inventory, store credit, finances and reports.<br />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-</p>
-
-###
-
 <div align="center">
   <img src="profile-summary-card-output/react/0-profile-details.svg" height="150" alt="profile details card" />
   <img width="12" />
